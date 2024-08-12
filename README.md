@@ -11,9 +11,10 @@ Penjelasan:
 2. tampilkan_lokasi(data): Fungsi ini menampilkan informasi lokasi yang diperoleh dari API.
 2. main(): Fungsi utama yang meminta token API dan alamat IP dari pengguna, kemudian menampilkan hasilnya.
 
-Cara Menjalankan:
-#$ pkg update && pkg upgrade
-#$ git clone https://github.com/Farhanale-sys/Lacak-Lokasi-IP
-#$ cd Lacak-Lokasi-IP
-#$ pip install requests
-#$ python cari_lokasi_ip.py
+Cara Menjalankan: 
+**pkg update && pkg upgrade**
+
+1. **git clone https://github.com/Farhanale-sys/Lacak-Lokasi-IP**
+2. **cd Lacak-Lokasi-IP**
+3. **pip install requests**
+4. **python cari_lokasi_ip.py**
