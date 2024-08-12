@@ -12,6 +12,8 @@ Penjelasan:
 2. main(): Fungsi utama yang meminta token API dan alamat IP dari pengguna, kemudian menampilkan hasilnya.
 
 Cara Menjalankan:
-1. Simpan script di file bernama, misalnya, cari_lokasi_ip.py.
-2. Jalankan script di terminal dengan perintah python cari_lokasi_ip.py.
-3. Masukkan token API dan alamat IP ketika diminta.
+$ pkg update && pkg upgrade
+$ git clone https://github.com/Farhanale-sys/Lacak-Lokasi-IP
+$ cd Lacak-Lokasi-IP
+$ pip install requests
+$ python cari_lokasi_ip.py
