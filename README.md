@@ -12,9 +12,9 @@ Penjelasan:
 2. main(): Fungsi utama yang meminta token API dan alamat IP dari pengguna, kemudian menampilkan hasilnya.
 
 Cara Menjalankan: 
-**pkg update && pkg upgrade**
 
-1. **git clone https://github.com/Farhanale-sys/Lacak-Lokasi-IP**
-2. **cd Lacak-Lokasi-IP**
-3. **pip install requests**
-4. **python cari_lokasi_ip.py**
+1. **pkg update && pkg upgrade**
+2. **git clone https://github.com/Farhanale-sys/Lacak-Lokasi-IP**
+3. **cd Lacak-Lokasi-IP**
+4. **pip install requests**
+5. **python cari_lokasi_ip.py**
