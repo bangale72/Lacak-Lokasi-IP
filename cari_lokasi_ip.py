@@ -21,7 +21,7 @@ def tampilkan_lokasi(data):
         print("Gagal mendapatkan informasi lokasi untuk alamat IP ini.")
 
 def main():
-    token = input("Masukkan token API ipinfo.io Anda: ")
+    token = "cb809e9e7d9102"  # Token API harus berupa string dengan tanda kutip
     ip_address = input("Masukkan alamat IP yang ingin dicari: ")
     
     data = cari_lokasi_ip(ip_address, token)
